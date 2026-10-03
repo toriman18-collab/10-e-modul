@@ -1,0 +1,40 @@
+{
+  "tokens": [
+    {
+      "id": "tok-1790981517039-3f1h",
+      "code": "PPKN-UUR7NU",
+      "type": "competency",
+      "status": "active",
+      "createdAt": "2026-10-02T22:51:57.039Z",
+      "expiresAt": "2026-10-03T10:51:57.039Z",
+      "createdBy": "Guru Pendidikan Pancasila"
+    },
+    {
+      "id": "tok-1790981512479-x169",
+      "code": "PPKN-MLMRUK",
+      "type": "quiz",
+      "status": "active",
+      "createdAt": "2026-10-02T22:51:52.479Z",
+      "expiresAt": "2026-10-03T10:51:52.479Z",
+      "createdBy": "Guru Pendidikan Pancasila"
+    }
+  ],
+  "results": [
+    {
+      "id": "res-q-1790981531490-wwyk",
+      "studentName": "Budi Santoso",
+      "studentClass": "X-A",
+      "examType": "quiz",
+      "tokenUsed": "PPKN-MLMRUK",
+      "startTime": "2026-10-02T22:52:11.490Z",
+      "endTime": "2026-10-02T22:52:11.490Z",
+      "score": 100,
+      "correctCount": 5,
+      "wrongCount": 0,
+      "unansweredCount": 0,
+      "percentage": 100,
+      "category": "Sangat Baik",
+      "submittedAt": "2026-10-02T22:52:11.490Z"
+    }
+  ]
+}

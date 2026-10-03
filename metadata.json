@@ -1,0 +1,6 @@
+{
+  "name": "e-modul-PPKn",
+  "description": "E-Modul Interaktif Pendidikan Pancasila SMA Kelas X Fase E - Analisis Ide Pendiri Bangsa Sidang BPUPK",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
